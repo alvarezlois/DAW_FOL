@@ -27,7 +27,7 @@ ud06: o tempo de traballo e a sua retribucion
 calificacion2:
 
 # avaliacion: 3
-ud07:
+ud07: a modificación, suspensión e extinción da relación laboral
 ud08:
 calificacion3:
 
